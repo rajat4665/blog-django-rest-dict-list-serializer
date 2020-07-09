@@ -17,6 +17,16 @@ python3 manage.py runserver</pre>
 </ul>
 
 <h3> Access to Admin pannel </h3>
-<ul>Go to this url http://127.0.0.1:8000/admin/ </ul>
-<ul> username => admin </ul>
-<ul> password => admin </ul>
+<ul>
+    <li> Go to this url http://127.0.0.1:8000/admin/ </li>
+    <li> username => admin </li>
+    <li> password => admin </li>
+</ul>
+
+<h3> Access over Silk profiler </h3>
+<ul>
+    <li> Go to this url http://127.0.0.1:8000/silk/ </li>
+    <li> Here you can see overall time consume </li>
+    <li> Total time taken by queries </li>
+    <li> Total Queries </li>
+</ul>
